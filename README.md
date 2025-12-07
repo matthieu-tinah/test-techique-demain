@@ -1,25 +1,36 @@
-# test-techique-demain
-notifications temps réel
+🔔 Notifications en Temps Réel – Architecture Next.js (App Router)
 
-➡️ TYpscript
-➡️ Next.js (App Router)
-➡️ Architecture orientée modules
-➡️ Système de notification en temps réel
-➡️ Déclenchée quand un produit est en rupture de stock
+Un système complet de notification en temps réel, déclenché automatiquement lorsqu’un produit passe en rupture de stock.
 
-Architecture globale
+🚀 Stack Technique
+🧩 Frontend
 
-Frontend : Next.js 14 (App Router), Server Actions, React Server Components, module product, module notification
+Next.js 14 (App Router)
 
-Backend : API Routes Next.js ou tRPC
+React Server Components
 
-DB : Prisma + PostgreSQL
+Server Actions
 
-Temps réel : Socket.io
+Architecture orientée modules
 
-Architecture : orientée modules
+Modules :
 
-voici un example de l'achi à mettre en place
 modules/product
+
 modules/notification
+
 modules/user
+
+🛠 Backend
+
+Next.js API Routes ou tRPC
+
+🗄 Base de données
+
+Prisma ORM
+
+PostgreSQL
+
+⚡ Temps réel
+
+Socket.io (canaux de notifications en direct)
