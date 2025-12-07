@@ -34,3 +34,20 @@ PostgreSQL
 ⚡ Temps réel
 
 Socket.io (canaux de notifications en direct)
+
+
+🔄 Fonctionnement du Système
+
+Un produit passe en rupture de stock
+
+Le module Product déclenche un événement
+
+Le module Notification diffuse l’alerte via Socket.io
+
+Le frontend écoute et affiche :
+
+🔴 Alerte visuelle
+
+🔔 Badge de notification
+
+📩 Liste des notifications
