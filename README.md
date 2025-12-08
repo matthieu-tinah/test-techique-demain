@@ -53,6 +53,7 @@ Le frontend écoute et affiche :
 📩 Liste des notifications
 
 📦 Livrables
+
 🎥 Capture vidéo
 
 Une démonstration complète du système de notifications en temps réel :
