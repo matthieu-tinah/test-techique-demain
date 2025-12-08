@@ -51,3 +51,16 @@ Le frontend écoute et affiche :
 🔔 Badge de notification
 
 📩 Liste des notifications
+
+📦 Livrables
+🎥 Capture vidéo
+
+Une démonstration complète du système de notifications en temps réel :
+
+👉 [Insérer ici le lien vers la vidéo de démonstration]
+
+🔗 Lien GitHub
+
+Le code source du projet est disponible ici :
+
+👉 Lien GitHub du projet
