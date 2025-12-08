@@ -9,7 +9,7 @@ Next.js 14 (App Router)
 
 React Server Components
 
-Server Actions
+Next api (recommendé) ou server actions ,
 
 Architecture orientée modules
 
